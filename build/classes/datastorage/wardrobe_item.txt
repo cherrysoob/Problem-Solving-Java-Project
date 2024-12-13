@@ -1,0 +1,37 @@
+ Top , White , Casual , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\sweater.jpeg
+ Top , Black , Smart Casual , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\black blouse.jpeg
+ Bottom , Black , Formal , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\black slacks.jpeg
+ Shoes , White , Sport , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\white sneakers.jpg
+ Other , Gray , Smart Casual , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\gray vest.jpeg
+ Other , Gray , Other , Winter ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\gray padding.jpeg
+ Shoes , Black , Casual , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\black crocs.jpeg
+ Other , Pink , Other , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\pink ribbon.jpeg
+ Bottom , Brown , Formal , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\brown skirt.jpeg
+ Bottom , White , Formal , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\white slacks.jpeg
+ Shoes , Black , Smart Casual , Winter ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\black boots.jpeg
+ Top , Black , Formal , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\black buttonup.jpg
+ Other , Black , Smart Casual , Autumn ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\black outer.jpeg
+ Other , Black , Other , Winter ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\black padding.jpeg
+ Other , Black , Other , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\black ribbon.jpeg
+ Bottom , Black , Casual , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\black skirt.jpg
+ Top , Blue , Casual , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\blue hoodie.jpg
+ Shoes , Blue , Casual , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\blue sneakers.jpg
+ Shoes , Brown , Smart Casual , Autumn ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\brown boots.jpeg
+ Top , Brown , Comfortable , Autumn ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\brown knitted.jpeg
+ Other , Brown , Smart Casual , Autumn ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\brown outer.jpeg
+ Bottom , Brown , Formal , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\brown slacks.jpeg
+ Top , Gray , Casual , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\gray hoodie.jpeg
+ Top , Gray , Comfortable , Winter ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\gray sweatshirt.jpeg
+ Bottom , Gray , Sport , Spring ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\sweatpants.jpg
+ Top , White , Comfortable , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\white blouse (1).jpeg
+ Other , White , Smart Casual , Spring ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\white blouse (2).jpeg
+ Top , White , Smart Casual , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\white blouse.jpeg
+ Other , White , Comfortable , Spring ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\white cardigan.jpeg
+ Shoes , White , Casual , Summer ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\white crocs.jpeg
+ Other , White , Other , Winter ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\white padding.jpeg
+ Top , White , Formal , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\white buttonup.jpg
+ Shoes , Black , Formal , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\black heels.jpg
+ Shoes , Brown , Formal , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\brown shoes.jpeg
+ Shoes , White , Formal , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\white heels.jpeg
+ Bottom , Blue , Casual , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\jeans.jpeg
+ Top , Pink , Casual , All ,C:\Users\AISHAH MAISARAH\Downloads\1clothessss\1spring top.jpeg
